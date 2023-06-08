@@ -1,0 +1,13 @@
+CENG-2002 Data Structures with JAVA Term Project
+----------------------------------------------------------
+Yağızalp Çalman 202010020028
+----------------------------------------------------------
+
+How to run:
+1-Open the terminal of which compiler you are using.
+
+2-Make sure the path is C:\Users\"username"\"File location"\DijkstraShortestPath> looks like this
+
+3- Then simply enter the code like this "java DijkstraShortestPath A B"
+
+----------------------------------------------------------
